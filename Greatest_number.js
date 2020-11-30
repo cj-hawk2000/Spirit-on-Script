@@ -1,12 +1,19 @@
+//Greatest of 3 Numbers Program
+
 var a=5;
 var b =6;
 var c=10;
-if(a>b&&a>c){
+if(a>b && a>c)
+{
     console.log("A is greater");
-}else if(b>a && b>c){
+}
+else if(b>a && b>c)
+{
     console.log("B is greater");
-}else{
+}
+else
+{
     console.log("C is greater");
 }
 
-//C is greater
+
